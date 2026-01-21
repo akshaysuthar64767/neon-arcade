@@ -167,8 +167,8 @@ This ensures fully automated deployments.
 ---
 
 ## 👤 Author
-**Buddy (Akshay)**  
-Aspiring Cloud Engineer • Full-Stack Developer  
+**Akshay Suthar**  
+Aspiring Cloud Engineer • Cyber-Security  
 Project built for learning, portfolio, and deployment skills.
 
 ---
